@@ -244,7 +244,7 @@ When two selectors have the same level of specificity, the rule that is defined 
 }
 ~~~
 
-In the above example, the selector last_declared would override the first_declared selector. Any html element with both of those classes would have the styles defined in .last_declared instead of .first_declared.
+In the above example, the selector last_declared would override the first_declared selector. Any html element with both of those classes would have the font-size defined in .last_declared instead of .first_declared.
 
 ### Properties to get started with
 
